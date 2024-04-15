@@ -1,0 +1,77 @@
+C:\Users\mario\Documents\Visual Studio 2008\Projects\15caselle\15caselle\bin\Debug\15caselle.exe
+C:\Users\mario\Documents\Visual Studio 2008\Projects\15caselle\15caselle\bin\Debug\15caselle.pdb
+C:\Users\mario\Documents\Visual Studio 2008\Projects\15caselle\15caselle\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mario\Documents\Visual Studio 2008\Projects\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mario\Documents\Visual Studio 2008\Projects\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mario\Documents\Visual Studio 2008\Projects\15caselle\15caselle\obj\Debug\15caselle.csproj.GenerateResource.Cache
+C:\Users\mario\Documents\Visual Studio 2008\Projects\15caselle\15caselle\obj\Debug\15caselle.exe
+C:\Users\mario\Documents\Visual Studio 2008\Projects\15caselle\15caselle\obj\Debug\15caselle.pdb
+F:\SCUOLA\15caselle\15caselle\obj\Debug\15caselle.exe
+F:\SCUOLA\15caselle\15caselle\obj\Debug\15caselle.pdb
+F:\SCUOLA\15caselle\15caselle\bin\Debug\15caselle.exe
+F:\SCUOLA\15caselle\15caselle\bin\Debug\15caselle.pdb
+F:\SCUOLA\15caselle\15caselle\obj\Debug\ResolveAssemblyReference.cache
+F:\SCUOLA\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\SCUOLA\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\SCUOLA\15caselle\15caselle\obj\Debug\15caselle.csproj.GenerateResource.Cache
+C:\Users\Federico\Desktop\15caselle\15caselle\obj\Debug\15caselle.pdb
+C:\Users\Federico\Desktop\15caselle\15caselle\bin\Debug\15caselle.exe
+C:\Users\Federico\Desktop\15caselle\15caselle\bin\Debug\15caselle.pdb
+C:\Users\Federico\Desktop\15caselle\15caselle\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Federico\Desktop\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Federico\Desktop\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Federico\Desktop\15caselle\15caselle\obj\Debug\15caselle.csproj.GenerateResource.Cache
+C:\Users\Federico\Desktop\15caselle\15caselle\obj\Debug\15caselle.exe
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\obj\Debug\15caselle.exe
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\obj\Debug\15caselle.pdb
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\bin\Debug\15caselle.exe
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\bin\Debug\15caselle.pdb
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\obj\Debug\15caselle.csproj.GenerateResource.Cache
+E:\SCUOLA\15caselle\15caselle\15caselle\obj\Debug\15caselle.exe
+E:\SCUOLA\15caselle\15caselle\15caselle\obj\Debug\15caselle.pdb
+H:\SCUOLA\15caselle\15caselle\15caselle\obj\Debug\15caselle.exe
+H:\SCUOLA\15caselle\15caselle\15caselle\obj\Debug\15caselle.pdb
+H:\SCUOLA\15caselle\15caselle\15caselle\bin\Debug\15caselle.exe
+H:\SCUOLA\15caselle\15caselle\15caselle\bin\Debug\15caselle.pdb
+H:\SCUOLA\15caselle\15caselle\15caselle\obj\Debug\ResolveAssemblyReference.cache
+H:\SCUOLA\15caselle\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\SCUOLA\15caselle\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\SCUOLA\15caselle\15caselle\15caselle\obj\Debug\15caselle.csproj.GenerateResource.Cache
+E:\SCUOLA\15caselle\15caselle\obj\Debug\15caselle.exe
+E:\SCUOLA\15caselle\15caselle\obj\Debug\15caselle.pdb
+E:\SCUOLA\15caselle\15caselle\bin\Debug\15caselle.exe
+E:\SCUOLA\15caselle\15caselle\bin\Debug\15caselle.pdb
+E:\SCUOLA\15caselle\15caselle\obj\Debug\ResolveAssemblyReference.cache
+E:\SCUOLA\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\SCUOLA\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SCUOLA\15caselle\15caselle\obj\Debug\15caselle.csproj.GenerateResource.Cache
+C:\Users\mario\Desktop\MARIO\Scuola\quarta seria\visual studio projects\15caselle\15caselle\obj\Debug\15caselle.exe
+C:\Users\mario\Desktop\MARIO\Scuola\quarta seria\visual studio projects\15caselle\15caselle\obj\Debug\15caselle.pdb
+C:\Users\mario\Desktop\MARIO\Scuola\quarta seria\visual studio projects\15caselle\15caselle\bin\Debug\15caselle.exe
+C:\Users\mario\Desktop\MARIO\Scuola\quarta seria\visual studio projects\15caselle\15caselle\bin\Debug\15caselle.pdb
+C:\Users\mario\Desktop\MARIO\Scuola\quarta seria\visual studio projects\15caselle\15caselle\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mario\Desktop\MARIO\Scuola\quarta seria\visual studio projects\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mario\Desktop\MARIO\Scuola\quarta seria\visual studio projects\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mario\Desktop\MARIO\Scuola\quarta seria\visual studio projects\15caselle\15caselle\obj\Debug\15caselle.csproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\15caselle\obj\Debug\15caselle.exe
+C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\15caselle\obj\Debug\15caselle.pdb
+C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\15caselle\bin\Debug\15caselle.exe
+C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\15caselle\bin\Debug\15caselle.pdb
+C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\15caselle\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\15caselle\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\15caselle\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\15caselle\15caselle\bin\Debug\15caselle.exe.config
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\15caselle\15caselle\bin\Debug\15caselle.exe
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\15caselle\15caselle\bin\Debug\15caselle.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\15caselle\15caselle\obj\Debug\15caselle.csproj.AssemblyReference.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\15caselle\15caselle\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\15caselle\15caselle\obj\Debug\15caselle.csproj.GenerateResource.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\15caselle\15caselle\obj\Debug\15caselle.csproj.CoreCompileInputs.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\15caselle\15caselle\obj\Debug\15caselle.exe
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\15caselle\15caselle\obj\Debug\15caselle.pdb

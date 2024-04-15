@@ -1,0 +1,8 @@
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\bin\Release\15caselle.exe
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\bin\Release\15caselle.pdb
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\obj\Release\15caselle.csproj.GenerateResource.Cache
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\obj\Release\15caselle.exe
+C:\Users\mario\Desktop\15caselle\15caselle\15caselle\obj\Release\15caselle.pdb

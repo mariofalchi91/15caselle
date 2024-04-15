@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="15caselle">
+</Property><Property Name="File di soluzione" Value="C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\15caselle.sln">
+</Property><Property Name="File di opzioni utente" Value="C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\15caselle.suo">
+</Property><Property Name="Date" Value="mercoledì 30 maggio 2012">
+</Property><Property Name="Time" Value="11:51">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="15caselle.sln" Description="File salvato come C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\Backup\15caselle.sln">
+</Event><Event ErrorLevel="0" Project="" Source="15caselle.suo" Description="File salvato come C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\Backup\15caselle.suo">
+</Event><Event ErrorLevel="0" Project="15caselle" Source="15caselle\15caselle.csproj" Description="Backup del file di progetto creato con nome C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\Backup\15caselle\15caselle.csproj">
+</Event><Event ErrorLevel="0" Project="15caselle" Source="15caselle\15caselle.csproj.user" Description="Backup del file utente di progetto creato con nome C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\Backup\15caselle\15caselle.csproj.user">
+</Event><Event ErrorLevel="0" Project="15caselle" Source="15caselle\Form1.cs" Description="Backup del file creato con nome C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\Backup\15caselle\Form1.cs">
+</Event><Event ErrorLevel="0" Project="15caselle" Source="15caselle\Form1.Designer.cs" Description="Backup del file creato con nome C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\Backup\15caselle\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="15caselle" Source="15caselle\Program.cs" Description="Backup del file creato con nome C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\Backup\15caselle\Program.cs">
+</Event><Event ErrorLevel="0" Project="15caselle" Source="15caselle\Properties\AssemblyInfo.cs" Description="Backup del file creato con nome C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\Backup\15caselle\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="15caselle" Source="15caselle\Properties\Resources.Designer.cs" Description="Backup del file creato con nome C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\Backup\15caselle\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="15caselle" Source="15caselle\Properties\Settings.Designer.cs" Description="Backup del file creato con nome C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\Backup\15caselle\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="15caselle" Source="15caselle\Properties\Settings.settings" Description="Backup del file creato con nome C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\Backup\15caselle\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="15caselle" Source="15caselle\Form1.resx" Description="Backup del file creato con nome C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\Backup\15caselle\Form1.resx">
+</Event><Event ErrorLevel="0" Project="15caselle" Source="15caselle\Properties\Resources.resx" Description="Backup del file creato con nome C:\Users\Mario\Documents\Scuola\quarta seria\visual studio projects\15caselle\Backup\15caselle\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="15caselle" Source="15caselle\15caselle.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="15caselle" Source="15caselle\15caselle.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="15caselle.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="15caselle.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="15caselle" Source="15caselle\15caselle.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>
